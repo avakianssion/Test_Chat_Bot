@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/sionavakian/Desktop/chatbot/model.tflearn"
+all_model_checkpoint_paths: "/Users/sionavakian/Desktop/chatbot/model.tflearn"
